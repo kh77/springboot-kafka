@@ -1,8 +1,8 @@
 # Spring Boot - Kafka
 
-- There is a scheduler for every producer in producer-project, just change cron time to play around and see the logs in the consumer
-- Create topics in kafka using below kafka command
-- Docker compose file to run kafka
+- There is a scheduler for every producer in producer-project, just change cron time to play around and see the logs in the consumer-project
+- Create topics in the kafka using below kafka command
+- Docker compose file to run kafka,zookeeper
 
 
 ### Example 1: Simple Json is being passed and consume
